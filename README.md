@@ -1,3 +1,6 @@
+# Fork info
+I have forked this repo to slighly modify the list for my PiHole instance. I am simply commenting out the services I still want to come through (like Google email). 
+
 [![No G](https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/images/GAFAMSPLATTEXTNOGgit.png)](https://github.com/nickspaargaren/no-google)
 
 # Definition of GAFAM
