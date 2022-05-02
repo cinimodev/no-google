@@ -2945,7 +2945,7 @@ groups-beta.google.com
 grow.google
 grupovirtualdeamamentacao.apis.google.com
 gseacnw61z.com
-gsmtp185-2.google.com
+g185-2.google.com
 gsuite.google.co.uk
 gsuite.google.com
 gsuiteupdates.googleblog.com
@@ -2999,7 +2999,7 @@ ikknil4o42.com
 images-partners-tbn.google.com
 images-partners.google.com
 IMAGEs.google.com
-imap.google.com
+# imap.google.com
 inputtools.google.com
 instaplot.corp.google.com
 ip-geo.appspot.com
